@@ -1,3 +1,3 @@
 window.onload = function(){
-    window.location.replace('/terminal')
+    window.location.replace('/Terminal')
 }
